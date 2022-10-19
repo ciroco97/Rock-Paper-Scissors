@@ -1,2 +1,3 @@
 # Rock-Paper-Scissors
-I
+
+Little game I made to practice my DOM Manipulation and Events.
